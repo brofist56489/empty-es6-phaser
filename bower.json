@@ -1,0 +1,12 @@
+{
+  "name": "phaser-game",
+  "version": "0.0.1",
+  "description": "nah...",
+  "authors": [
+    ""
+  ],
+  "dependencies": {
+    "phaser-official": "latest",
+    "traceur-runtime": "latest"
+  }
+}
